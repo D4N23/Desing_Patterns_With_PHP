@@ -1,0 +1,15 @@
+{
+    "name": "danilo/desing_patterns",
+    "autoload": {
+        "psr-4": {
+            "Danilo\\DesingPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo",
+            "email": "daniilosam23@gmail.com"
+        }
+    ],
+    "require": {}
+}
