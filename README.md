@@ -32,7 +32,7 @@ Cada diretório contém:
 
 ## Pré-requisitos
 
-Para executar os exemplos, você precisará ter o PHP instalado em sua máquina. A versão recomendada é o PHP 7.4 ou superior.
+Para executar os exemplos, você precisará ter o PHP instalado em sua máquina. A versão recomendada é o PHP 8.1 ou superior.
 
 ## Como Usar
 
